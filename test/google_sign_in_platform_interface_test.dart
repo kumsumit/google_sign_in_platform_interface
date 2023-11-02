@@ -87,8 +87,7 @@ class LegacyIsMockImplementation extends Mock implements GoogleSignInPlatform {
 }
 
 class ModernMockImplementation extends Mock
-    with MockPlatformInterfaceMixin
-    implements GoogleSignInPlatform {
+    implements GoogleSignInPlatform, MockPlatformInterfaceMixin {
   @override
   bool get isMock => false;
 }

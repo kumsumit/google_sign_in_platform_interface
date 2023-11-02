@@ -171,9 +171,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-3f77202a425698dc76188933bde3738a0df4b21e/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "pub_semver",
@@ -272,7 +272,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-09-12T06:54:53.120520Z",
+  "generated": "2023-11-02T05:05:48.164299Z",
   "generator": "pub",
-  "generatorVersion": "3.1.1"
+  "generatorVersion": "3.1.5"
 }
