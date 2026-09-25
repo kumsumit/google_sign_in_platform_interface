@@ -8,19 +8,19 @@ version: 3.1.0
 publish_to: none
 
 environment:
-  sdk: ^3.12.0
-  flutter: ">=3.44.0"
+  sdk: ^3.13.0
+  flutter: ">=3.47.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface:
+  plugin_platform_interface: 
     git: https://github.com/kumsumit/plugin_platform_interface.git
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: ^5.8.0
+  mockito: ^5.8.1
 
 topics:
   - authentication
